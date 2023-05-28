@@ -6,8 +6,8 @@ The User Data Service is a crucial component of a real-time chat application. It
 ## Getting Started
 
 ### Prerequisites
-- Docker
-- Docker Compose
+- [Docker](https://docs.docker.com/engine/install/)
+- [Docker Compose](https://docs.docker.com/compose/install/linux/)
 
 ### Installation and Setup
 1. Clone the repository.
