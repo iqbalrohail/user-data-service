@@ -14,6 +14,7 @@ The User Data Service is a crucial component of a real-time chat application. It
 2. Navigate to the project directory.
 3. Run the following command to start the service:
 
+`sudo docker-compose up`
 
 ## Usage
 
